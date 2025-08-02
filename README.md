@@ -33,7 +33,7 @@ A meme/video/diagram shared on social media to make learning about AI fun and ac
 
 ## 📎 Useful Links
 
-🔗 [PartyRock Website](https://partyrock.aws/)  
+🔗 [PartyRock Website] https://partyrock.aws/u/kevinkamdem/f68H9k4hZ/NeuroBrain%3A-Exploration-IA
 🔗 [Educloud Academy Submission Form](https://forms.gle/ffSJyx6xXf7Dy4CA7)
 
 ## 🧠 Personal Reflection
